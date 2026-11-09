@@ -12,7 +12,7 @@ export const profile = {
   email: "kalilurrahman1306@gmail.com",
   phone: "+91 7904044608",
   phoneHref: "tel:+917904044608",
-  linkedin: "https://linkedin.com/in/kalilur-rahman",
+  linkedin: "https://www.linkedin.com/in/kalilur-rahman-a-r-7a7314171/",
   /** Set VITE_GITHUB_URL in a .env file, or edit here. Empty = GitHub links are hidden. */
   github: (import.meta.env.VITE_GITHUB_URL as string | undefined) ?? "",
   resumeUrl: "/resume/Kalilur-Rahman-Resume.pdf",

@@ -136,7 +136,7 @@ export function Contact() {
                 <div className="min-w-0 flex-1">
                   <p className="mono-label">LinkedIn</p>
                   <a href={profile.linkedin} target="_blank" rel="noopener noreferrer" className="block truncate text-base font-medium hover:text-accent sm:text-lg">
-                    linkedin.com/in/kalilur-rahman
+                    linkedin.com/in/kalilur-rahman-a-r-7a7314171
                   </a>
                 </div>
               </div>
